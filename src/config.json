@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.aarcons.aarconsmobile",
+    "appname": "aarcons Mobile",
+    "desktopappname": "aarcons Desktop",
     "versioncode": 3820,
-    "versionname": "3.8.2",
+    "versionname": "3.8.6",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -57,32 +57,32 @@
         "zh-cn": "简体中文",
         "zh-tw": "正體中文"
     },
-    "wsservice": "moodle_mobile_app",
+    "wsservice": "aarcons_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    // "demo_sites": {
+    //     "student": {
+    //         "url": "https:\/\/school.aarconsdemo.net",
+    //         "username": "student",
+    //         "password": "aarcons"
+    //     },
+    //     "teacher": {
+    //         "url": "https:\/\/school.aarconsdemo.net",
+    //         "username": "teacher",
+    //         "password": "aarcons"
+    //     }
+    // },
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "customurlscheme": "aarconsmobile",
+    "siteurl": "onlineedu.gyanodya.xyz",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.net\/moodle-app-privacy\/",
+    "privacypolicy": "https:\/\/aarcons.net\/aarcons-app-privacy\/",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
