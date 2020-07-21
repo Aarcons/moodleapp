@@ -151,9 +151,9 @@
     <plugin name="cordova-clipboard" spec="1.3.0" />
     <plugin name="cordova-plugin-badge" spec="0.8.8" />
     <plugin name="cordova-plugin-camera" spec="4.1.0" />
-    <plugin name="cordova-plugin-customurlscheme" spec="^5.0.0" source ="npm">
-        <variable name="URL_SCHEME" value="moodlemobile" />
-    </plugin>
+    <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
+      <param name="URL_SCHEME" value="moodlemobile" />
+    </gap:plugin>
     <plugin name="cordova-plugin-device" spec="2.0.3" />
     <plugin name="cordova-plugin-file" spec="6.0.2" />
     <plugin name="cordova-plugin-file-opener2" spec="2.2.1" />
