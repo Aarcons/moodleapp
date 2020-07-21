@@ -1,0 +1,12 @@
+{
+  "cordova-plugin-customurlscheme": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/EddyVerbruggen/Custom-URL-scheme.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "URL_SCHEME": "moodlemobile"
+    }
+  }
+}
